@@ -1,5 +1,11 @@
 #root {
   max-width: 1280px;
+  width: 100%;
   margin: 0 auto;
   padding: 2rem;
+}
+
+.pdf-rendered {
+  height: calc(648px * 1.5);
+  width: 100%;
 }
